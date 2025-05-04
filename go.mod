@@ -1,4 +1,4 @@
-module github.com/Iowel/auth_proto
+module github.com/Iowel/protos
 
 go 1.24.1
 
